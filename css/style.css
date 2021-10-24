@@ -129,6 +129,8 @@ button[class = 'play']:hover{
     position: absolute;
     top: 150px;
     z-index: 1;
+    width: 80%;
+    margin: auto;
     
 }
 
