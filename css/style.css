@@ -197,6 +197,7 @@ button[class = 'com-btn']:hover, button[class= 'friend-btn']:hover, button[class
         justify-content: center;
         align-items: center;
         gap: 35px;
+        padding-bottom: 40px;
     }
     #game-board{
         width: 300px;
@@ -253,7 +254,5 @@ button[class = 'com-btn']:hover, button[class= 'friend-btn']:hover, button[class
     button[class='x']{
         position: static;
     }
-    button[class='play']{
-        margin-bottom: 40px;
-    }
+    
 }
