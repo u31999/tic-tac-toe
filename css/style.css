@@ -183,7 +183,6 @@ button[class = 'com-btn']:hover, button[class= 'friend-btn']:hover, button[class
         max-height: 100%;
         padding: 0;
         overflow: auto;
-        padding-bottom: 40px;
     }
     #header{
         margin-top: 60px;
@@ -253,5 +252,8 @@ button[class = 'com-btn']:hover, button[class= 'friend-btn']:hover, button[class
     }
     button[class='x']{
         position: static;
+    }
+    button[class='play']{
+        margin-bottom: 40px;
     }
 }
